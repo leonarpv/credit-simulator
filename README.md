@@ -23,9 +23,6 @@ build/
 src/
 |- index.jsx _______________________________ # entrada de la aplicación
 |- App.jsx _________________________________ # Componente principal
-|  |- Components/
-|    |- hello-world/ 
-|       |- index.jsx _______________________ # Componente de ejemplo    
 ````
 
 ### Instalación
