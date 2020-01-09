@@ -1,0 +1,16 @@
+.CreditButtons {
+  & button {
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  & .confirm {
+    width: 70%;
+    margin-right: 5px;
+    background-color: #17aa8d;
+  }
+  & .details {
+    width: 40%;
+    margin-left: 5px;
+    background-color: #0b548b;
+  }
+}

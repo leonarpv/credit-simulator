@@ -1,0 +1,14 @@
+.Slider {
+  & .rc-slider-track {
+    background-color: white;
+  }
+  & .rc-slider-handle {
+    border-color: white;
+  }
+  &__labels {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+  }
+}

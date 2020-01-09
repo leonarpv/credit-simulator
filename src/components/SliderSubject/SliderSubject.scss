@@ -1,0 +1,21 @@
+.SliderSubject {
+  & div {
+    display: flex;
+    text-transform: uppercase;
+  }
+  &__label {
+    width: 70%;
+  }
+  &__summary {
+    width: 30%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    border: 1px solid white;
+    padding: 5px;
+  }
+  &--value {
+    width: 100%;
+  }
+}

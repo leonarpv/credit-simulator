@@ -1,0 +1,15 @@
+.CreditResume {
+  width: auto;
+  padding: 20px;
+  background-color: #00355d;
+  text-align: center;
+  & .label {
+    width: 50%;
+    font-size: 18px;
+  }
+  & .resume {
+    width: 50%;
+    font-size: 24px;
+    font-weight: 700;
+  }
+}
